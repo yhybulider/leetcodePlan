@@ -4,7 +4,7 @@
 
 
 
-## 解答![image-20200808003531783](C:\Users\admin\Desktop\稿子\pic\image-20200808003531783.png)![image-20200808003532834](https://gitee.com/yhycoder/photo/raw/master/image-20200808003532834.png)
+## 解答![image-20200808003531783](https://gitee.com/yhycoder/photo/raw/master/image-20200808003531783.png)![image-20200808003532834](https://gitee.com/yhycoder/photo/raw/master/image-20200808003532834.png)
 
 这个题目相对于51题可能更好解答一点，因为这里不需要输出字符，只需将次数计算
 
